@@ -1,0 +1,244 @@
+1.0K	./.git/COMMIT_EDITMSG
+1.0K	./.git/config
+1.0K	./.git/description
+1.0K	./.git/FETCH_HEAD
+1.0K	./.git/HEAD
+1.0K	./.git/hooks/applypatch-msg.sample
+4.0K	./.git/hooks/commit-msg.sample
+1.0K	./.git/hooks/post-commit.sample
+1.0K	./.git/hooks/post-receive.sample
+1.0K	./.git/hooks/post-update.sample
+1.0K	./.git/hooks/pre-applypatch.sample
+4.0K	./.git/hooks/pre-commit.sample
+8.0K	./.git/hooks/pre-rebase.sample
+4.0K	./.git/hooks/prepare-commit-msg.sample
+4.0K	./.git/hooks/update.sample
+33K	./.git/hooks
+24K	./.git/index
+1.0K	./.git/info/exclude
+1.0K	./.git/info/refs
+2.0K	./.git/info
+1.0K	./.git/logs/HEAD
+1.0K	./.git/logs/refs/heads/master
+1.0K	./.git/logs/refs/heads
+1.0K	./.git/logs/refs/remotes/origin/master
+1.0K	./.git/logs/refs/remotes/origin
+1.0K	./.git/logs/refs/remotes
+2.0K	./.git/logs/refs
+3.0K	./.git/logs
+1.0K	./.git/objects/info/packs
+1.0K	./.git/objects/info
+4.0K	./.git/objects/pack/pack-7ad611cf797b3c08b262cd84cd7971820823929a.idx
+235M	./.git/objects/pack/pack-7ad611cf797b3c08b262cd84cd7971820823929a.pack
+4.0K	./.git/objects/pack/pack-83fcf40d032e6d3144a25ca9f0728df72b5a12a2.idx
+1000M	./.git/objects/pack/pack-83fcf40d032e6d3144a25ca9f0728df72b5a12a2.pack
+4.0K	./.git/objects/pack/pack-cca830cfee4014dd66d344bad25e9fdb800eb5de.idx
+1.0G	./.git/objects/pack/pack-cca830cfee4014dd66d344bad25e9fdb800eb5de.pack
+2.3G	./.git/objects/pack
+2.3G	./.git/objects
+1.0K	./.git/ORIG_HEAD
+1.0K	./.git/packed-refs
+0	./.git/refs/heads
+0	./.git/refs/remotes/origin
+0	./.git/refs/remotes
+0	./.git/refs/tags
+0	./.git/refs
+2.3G	./.git
+56M	./Android/ANDROID 2.0游戏开发实战宝典.pdf
+7.4M	./Android/professional_android_application_development.pdf
+63M	./Android
+12K	./booklist.txt
+6.0M	./Data Structure + Algorithms/Introduction.to.Algorithms.3rd.pdf
+6.0M	./Data Structure + Algorithms
+0	./Database
+4.0K	./du.txt
+5.5M	./GameDev/AI/AI.for.Game.Developers.Examples.rar
+5.3M	./GameDev/AI/Artificial.Intelligence.for.Games.1st.pdf
+1.6M	./GameDev/AI/Artificial.Intelligence.for.Games.1st.Source.Code.rar
+4.2M	./GameDev/AI/Artificial.Intelligence.for.Games.Second.Editon.Ian.Millington.pdf
+4.0M	./GameDev/AI/Programming.AI.by.Example.Source.Code.rar
+8.7M	./GameDev/AI/Programming.Game.AI.by.Example.(2005).chm
+12M	./GameDev/AI/Programming.Game.AI.by.Example.pdf
+24M	./GameDev/AI/人工智能游戏编程真言.pdf
+64M	./GameDev/AI
+76M	./GameDev/Art/3DS.Max.2009.Bible.pdf
+20M	./GameDev/Art/Introducing.3ds.Max.2008.pdf
+14M	./GameDev/Art/Introducing.3ds.Max.9.pdf
+109M	./GameDev/Art
+11M	./GameDev/Design/神仙道深度研究.docx
+11M	./GameDev/Design
+74M	./GameDev/Engine/3d Game Engine Design - A Practical Approach To Real-Time Computer Graphics.pdf
+3.8M	./GameDev/Engine/3D Game Engine Design Source Code.rar
+4.0M	./GameDev/Engine/3D.Game.Engine.Architecture.pdf
+25M	./GameDev/Engine/Cocos2d/Learn.cocos2d.Game.Development.with.iOS.5.Nov.2011.pdf
+25M	./GameDev/Engine/Cocos2d
+0	./GameDev/Engine/CryEngine
+9.6M	./GameDev/Engine/Game Engine Architecture.pdf
+9.4M	./GameDev/Engine/Game Engine Gems, Volume One.chm
+27M	./GameDev/Engine/Game Programming All in One.pdf
+5.5M	./GameDev/Engine/Game.Coding.Complete.3rd.Edition.pdf
+53M	./GameDev/Engine/Game.Programming.Gems.1.pdf
+21M	./GameDev/Engine/Game.Programming.Gems.2.pdf
+11M	./GameDev/Engine/Game.Programming.Gems.3.pdf
+33M	./GameDev/Engine/Game.Programming.Gems.4.pdf
+73M	./GameDev/Engine/Game.Programming.Gems.5.chs.pdf
+31M	./GameDev/Engine/Game.Programming.Gems.6.pdf
+52M	./GameDev/Engine/Game.Programming.Gems.7.chs.pdf
+12M	./GameDev/Engine/Game.Programming.Gems.8.Adam.Lake.pdf
+1.9M	./GameDev/Engine/OGRE/PRO OGRE 3D PROGRAMMING (CN).CHM
+11M	./GameDev/Engine/OGRE/Pro.OGRE.3D.Programming.pdf
+13M	./GameDev/Engine/OGRE
+32M	./GameDev/Engine/Unity3D/Beginning 3D Game Development with Unity.pdf
+26M	./GameDev/Engine/Unity3D/Creating.3D.Game.Art.for.the.iPhone.with.Unity.pdf
+5.7M	./GameDev/Engine/Unity3D/Holistic+Game+Development+with+Unity.mobi
+14M	./GameDev/Engine/Unity3D/Unity 3.x Game Development beginner.pdf
+39M	./GameDev/Engine/Unity3D/Unity 3.x Game Development beginner_Code.rar
+5.3M	./GameDev/Engine/Unity3D/UNITY 中文手册.rar
+9.9M	./GameDev/Engine/Unity3D/Unity.3.x.Game.Development.by.Example.Beginner's.Guide.Sep.2011.pdf
+45M	./GameDev/Engine/Unity3D/Unity.3.x.Game.Development.Essentials.pdf
+16M	./GameDev/Engine/Unity3D/Unity.3D.Game.Development.by.Example.Beginner's.Guide.Sep.2010.pdf
+4.6M	./GameDev/Engine/Unity3D/Unity.pdf
+2.0M	./GameDev/Engine/Unity3D/Unity3D.Practice.Manual.pdf
+1.2M	./GameDev/Engine/Unity3D/Unity3D中文手册.pdf
+8.1M	./GameDev/Engine/Unity3D/Unity3D十五分钟教程.doc
+3.8M	./GameDev/Engine/Unity3D/Unity3D游戏引擎-雨松MOMO原创文章.pdf
+5.3M	./GameDev/Engine/Unity3D/Unity3D简单教程.doc
+2.3M	./GameDev/Engine/Unity3D/Unity优化建议（赵可新）.pdf
+7.9M	./GameDev/Engine/Unity3D/Unity讲解(中文).zip
+4.0K	./GameDev/Engine/Unity3D/说明.txt
+225M	./GameDev/Engine/Unity3D
+85M	./GameDev/Engine/Unreal/Mastering.Unreal.Technology.2.pdf
+85M	./GameDev/Engine/Unreal
+4.6M	./GameDev/Engine/Video.Game.Optimization.pdf
+37M	./GameDev/Engine/游戏之旅-我的编程感悟.pdf
+800M	./GameDev/Engine
+7.8M	./GameDev/Graphics/3D.Computer.Graphics.-.A.Mathematical.Introduction.with.OpenGL.pdf
+2.5M	./GameDev/Graphics/Advanced.Animation.with.DirectX(2003).pdf
+3.2M	./GameDev/Graphics/Beginning.DirectX.11.Game.Programming.Wendy.Jones.pdf
+35M	./GameDev/Graphics/Casting.Shadows.in.Real.Time.coursenotes.pdf
+15M	./GameDev/Graphics/Character.Animation.With.Direct3D.pdf
+4.7M	./GameDev/Graphics/Evolution.of.GPUs.pdf
+3.6M	./GameDev/Graphics/GeForce.8800.GPU.Architecture.Technical.Brief.pdf
+1.0K	./GameDev/Graphics/GPU.Gems.1.-.Programming.Techniques,.Tips.and.Tricks.for.Real-Time.Graphics.txt
+1.0K	./GameDev/Graphics/GPU.Gems.2.-.Programming.Techniques.for.High-Performance.Graphics.and.General-Purpose.Computation.txt
+26M	./GameDev/Graphics/GPU.Gems.3.Aug.2007.chm
+1.6M	./GameDev/Graphics/Graphics.Gems.Series.Source.Code.rar
+21M	./GameDev/Graphics/Introduction.to.3D.Game.Programming.with.DirectX.10.chm
+5.7M	./GameDev/Graphics/Introduction.to.3D.Game.Programming.with.DirectX.9.0.Source.Code.rar
+6.8M	./GameDev/Graphics/Introduction.to.3D.Game.Programming.with.DirectX.9.pdf
+9.7M	./GameDev/Graphics/Learn.Vertex.and.Pixel.Shader.Programming.With.DirectX.9.pdf
+4.8M	./GameDev/Graphics/Level.of.Detail.for.3D.Graphics.pdf
+6.0M	./GameDev/Graphics/OpenGL/OpenGL.Game.Development.pdf
+5.7M	./GameDev/Graphics/OpenGL/OpenGL.Red.Book.and.Blue.Book.rar
+396K	./GameDev/Graphics/OpenGL/OpenGL.Reference.Manual.pdf
+6.7M	./GameDev/Graphics/OpenGL/OpenGL.Shading.Language.2nd.Edition.(Orange.Book).2006.pdf
+2.9M	./GameDev/Graphics/OpenGL/OpenGL.Shading.Language.2nd.Edition.chm
+4.3M	./GameDev/Graphics/OpenGL/OpenGL.Super.Bible.pdf
+13M	./GameDev/Graphics/OpenGL/OpenGL.SuperBible.4th.Edition.pdf
+16M	./GameDev/Graphics/OpenGL/The.Official.Guide.to.Learning.OpenGL,.Version.2.1.pdf
+55M	./GameDev/Graphics/OpenGL
+6.2M	./GameDev/Graphics/Programming.Vertex.Geometry.and.Pixel.Shaders.pdf
+17M	./GameDev/Graphics/Real-Time.Rendering.3rd.pdf
+9.7M	./GameDev/Graphics/Shaders.for.Game.Programming.and.Artists.pdf
+8.4M	./GameDev/Graphics/ShaderX1.-.Vertex.and.Pixel.Shader.Tips.and.Tricks.pdf
+5.9M	./GameDev/Graphics/ShaderX2.-.Introductions.and.Tutorials.with.DirectX9.pdf
+15M	./GameDev/Graphics/ShaderX2.-.Tips.and.Tricks.with.DirectX9.pdf
+30M	./GameDev/Graphics/ShaderX3.-.Advanced.Rendering.with.DirectX.and.OpenGL.pdf
+9.4M	./GameDev/Graphics/ShaderX5.-.Advanced.Rendering.Techniques.pdf
+1.0K	./GameDev/Graphics/The.Cg.Tutorial.-.The.Definitive.Guide.to.Programmable.Real-Time.Graphics.txt
+4.8M	./GameDev/Graphics/[Graphics.Gems.III.IBM][EN].pdf
+7.4M	./GameDev/Graphics/[Graphics.Gems.II][EN].pdf
+66M	./GameDev/Graphics/[Graphics.Gems.IV.IBM][EN].pdf
+6.0M	./GameDev/Graphics/[Graphics.Gems.I][EN].pdf
+45M	./GameDev/Graphics/[Graphics.Gems.V][EN].pdf
+21M	./GameDev/Graphics/计算机图形学的算法基础.pdf
+448M	./GameDev/Graphics
+104K	./GameDev/Math/3D Math Primer for Graphics and Games Development_1st_edition_errata.pdf
+23M	./GameDev/Math/3D.Math.Primer.for.graphics.and.game.development.pdf
+7.3M	./GameDev/Math/3D.Math.Primer.for.Graphics.and.Game.Development.Souce.Code.rar
+3.3M	./GameDev/Math/Computational.Geometry.-.Algorithms.and.Applications,Third.Edition (2008).pdf
+34M	./GameDev/Math/Mathematical.Physics.-.A.Modern.Introduction.To.It's.Foundations.pdf
+8.4M	./GameDev/Math/Mathematics.for.3D.Game.Programming.and.Computer.Graphics,.Lengyel,.3rd,.2011.pdf
+16M	./GameDev/Math/Mathematics.for.3D.Game.Programming.and.Computer.Graphics,.Second.Edition.pdf
+30M	./GameDev/Math/[3D数学基础：图形与游戏开发].(3D.Math.Primer.for.Graphics.and.Game.Development).(美)Fletcher.Dunn.扫描版.pdf
+23M	./GameDev/Math/[3D游戏与计算机图形学中的数学方法].(Mathematics.for.3D.Game.Programming.and.Computer.Graphics.1st).(美)Eric.Lengyel.扫描版.pdf
+143M	./GameDev/Math
+9.4M	./GameDev/Network/Networking.and.Online.Games.-.Understanding.and.Engineering.Multiplayer.Internet.Games.pdf
+9.4M	./GameDev/Network
+4.0M	./GameDev/Physics/Physics.for.Game.Developers.pdf
+3.0M	./GameDev/Physics/Realtime.Collision.Detection.pdf
+7.0M	./GameDev/Physics
+1.0K	./GameDev/readme.txt
+1.6G	./GameDev
+6.2M	./iOS/Learning.Cocoa.With.Objective-C.pdf
+15M	./iOS/Programming+in+Objective-C+2.0.pdf
+1.2M	./iOS/The.Objective-C.2.0.Programming.Language.pdf
+1.0K	./iOS/说明.txt
+22M	./iOS
+89M	./Language/C#/C#与.NET3.5高级程序设计(第4版).zip
+43M	./Language/C#/C#入门经典第五版上.pdf
+34M	./Language/C#/C#入门经典第五版下.pdf
+97M	./Language/C#/C#高级编程(第7版)-中文版.pdf
+43M	./Language/C#/C#高级编程(第7版).Professional.C#.4.0.and.NET.4.pdf
+46M	./Language/C#/CLR via C# English Edition 3rd.pdf
+528K	./Language/C#/IDesign C# Coding Standard.zip
+349M	./Language/C#
+4.5M	./Language/C++/C++ Primer 3rd Edition 中文完美版.pdf
+1.6M	./Language/C++/C++ Primer, Fourth Edition .chm
+6.6M	./Language/C++/C++ Primer题解.pdf
+3.4M	./Language/C++/C++.Standard Library,The.A.Tutorial.and.Reference.chm
+3.9M	./Language/C++/C++标准程序库(前半部分).pdf
+22M	./Language/C++/C++标准程序库.pdf
+15M	./Language/C++/C++的设计与演化.pdf
+17M	./Language/C++/Effective C++ 3rd Edition 中文版.pdf
+1.7M	./Language/C++/Effective C++ and More Effective C++.chm
+1.1M	./Language/C++/Effective.STL.CN.pdf
+1.5M	./Language/C++/Effective.STL.pdf
+944K	./Language/C++/Exceptional C++(中文版)_侯捷等译.pdf
+368K	./Language/C++/Exceptional.Cpp.chm
+660K	./Language/C++/Inside.the C++ Object Model.chm
+11M	./Language/C++/Large-Scale.C++.Software.Design.chs.pdf
+5.5M	./Language/C++/Memory Management, Algorithms and Implementation in C & C++.chm
+816K	./Language/C++/Modern.C++ Design Generic Programming and Design Patterns Applied.chm
+7.2M	./Language/C++/More Effective C++.pdf
+508K	./Language/C++/More.Exceptional.CPP.chm
+12M	./Language/C++/STL源码剖析(完整版).pdf
+6.3M	./Language/C++/STL源码剖析--侯捷.pdf
+3.4M	./Language/C++/The C++ Programming Language Special 3rd Edition.pdf
+248K	./Language/C++/The_C_programming_Language.chm
+476K	./Language/C++/超越c++标准库——boost程序库导论.chm
+125M	./Language/C++
+0	./Language/Java
+2.6M	./Language/Lua/Luabind入门教程.pdf
+1.8M	./Language/Lua/Lua中文教程.pdf
+444K	./Language/Lua/Lua程序设计.chm
+592K	./Language/Lua/Lua语言参考.pdf
+5.4M	./Language/Lua
+479M	./Language
+0	./Network
+0	./OS
+1.0K	./README.md
+22M	./Software Engineer/applying_uml_and_paterns.3rd.chm
+4.9M	./Software Engineer/Beautiful.Code.2007.chm
+50M	./Software Engineer/Beautiful.Code.[代码之美](中文版).pdf
+11M	./Software Engineer/Design.Patterns(中文版).pdf
+2.4M	./Software Engineer/Design.Patterns.pdf
+6.7M	./Software Engineer/SE_A_PRACTITIONER’S_APPROACH.pdf
+1.4M	./Software Engineer/UML_Distilled_3nd_for_Dotspace.pdf
+44M	./Software Engineer/编程珠玑(第2版).pdf
+1.4M	./Software Engineer/软件工程：实践者的研究方法(4th).pdf
+142M	./Software Engineer
+0	./System
+15M	./Windows/COM原理与应用.pdf
+8.4M	./Windows/Debugging Applications For Microsoft .NET And Microsoft Windows.chm
+19M	./Windows/Inside.Windows.2000.3rd.chm
+9.6M	./Windows/Microsoft Windows Internals Fourth Edition(2004).chm
+3.6M	./Windows/Programming.Windows(cn).chm
+4.5M	./Windows/Programming.Windows(en).chm
+26M	./Windows/Windows Internals 6th Part 1.pdf
+3.9M	./Windows/Windows via CC++.5th.chm
+29M	./Windows/Windows图形编程.pdf
+11M	./Windows/Windows游戏编程大师技巧（第二版）.chm
+61M	./Windows/[Windows编程启示录].Old.New.Thing.-.Practical.Development.throughout.the.Evolution.of.Windows(2007).pdf
+189M	./Windows
+4.7G	.
