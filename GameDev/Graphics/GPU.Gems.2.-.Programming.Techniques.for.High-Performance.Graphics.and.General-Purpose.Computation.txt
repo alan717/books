@@ -1,0 +1,5 @@
+Read for free
+
+GPU Gems 2: Programming Techniques for High-Performance Graphics and General-Purpose Computation 
+
+http://developer.nvidia.com/node/17

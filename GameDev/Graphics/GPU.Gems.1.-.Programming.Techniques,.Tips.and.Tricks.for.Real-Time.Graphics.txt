@@ -1,0 +1,5 @@
+Read for free
+
+GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics
+
+http://developer.nvidia.com/content/gpu-gems-part-i-natural-effects
