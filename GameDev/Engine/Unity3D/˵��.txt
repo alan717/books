@@ -1,0 +1,20 @@
+
+
+
+Unity 3D
+
+Amazon上推荐较多的一本书是：
+
+Unity 3.x Game Development Essentials by Will Goldstone (Dec 20, 2011)
+（总体不错，部分对程序员来说有点罗嗦）
+
+然后是：
+
+Holistic Game Development with Unity: An All-in-One Guide to Implementing Game Mechanics, Art, Design and Programming by Penny Baillie-de Byl (Nov 15, 2011)
+Unity 3.x Game Development by Example Beginner's Guide by Ryan Henson Creighton (Sep 23, 2011)
+
+其他可以参考的有：
+
+Game Development with Unity by Michelle Menard (Jan 19, 2011)
+Beginning 3D Game Development with Unity: All-in-one, multi-platform game development by Sue Blackman (May 25, 2011)
+Creating Games with Unity and Maya: How to Develop Fun and Marketable 3D Games by Adam Watkins (Jul 7, 2011)
